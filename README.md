@@ -8,7 +8,7 @@
 
 html에서
 
-	<link href='http://theeluwin.github.io/NotoSansKR-Hestia/stylesheets/NotoSansKR-Hestia.css' rel='stylesheet' type='text/css'>
+	<link href='http://notosanskr-hestia.s3-website-ap-northeast-1.amazonaws.com/stylesheets/NotoSansKR-Hestia.css' rel='stylesheet' type='text/css'>
 	
 css에서
 
