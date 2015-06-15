@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Noto Sans KR';
-    font-style: lighter;
+    font-family: 'Noto Sans Korean';
+    font-style: normal;
     font-weight: 100;
     src: local('Noto Sans Thin'), local('NotoSans-Thin'),
     url(http://theeluwin.github.io/NotoSansKR-Hestia/fonts/eot/NotoSansKR-Thin-Hestia.eot),
@@ -10,8 +10,8 @@
 }
 
 @font-face {
-    font-family: 'Noto Sans KR';
-    font-style: lighter;
+    font-family: 'Noto Sans Korean';
+    font-style: normal;
     font-weight: 300;
     src: local('Noto Sans Light'), local('NotoSans-Light'),
     url(http://theeluwin.github.io/NotoSansKR-Hestia/fonts/eot/NotoSansKR-Light-Hestia.eot),
@@ -21,7 +21,7 @@
 }
 
 @font-face {
-    font-family: 'Noto Sans KR';
+    font-family: 'Noto Sans Korean';
     font-style: normal;
     font-weight: 350;
     src: local('Noto Sans DemiLight'), local('NotoSans-DemiLight'),
@@ -32,7 +32,7 @@
 }
 
 @font-face {
-    font-family: 'Noto Sans KR';
+    font-family: 'Noto Sans Korean';
     font-style: normal;
     font-weight: 400;
     src: local('Noto Sans Regular'), local('NotoSans-Regular'),
@@ -43,7 +43,7 @@
 }
 
 @font-face {
-    font-family: 'Noto Sans KR';
+    font-family: 'Noto Sans Korean';
     font-style: normal;
     font-weight: 500;
     src: local('Noto Sans Medium'), local('NotoSans-Medium'),
@@ -54,8 +54,8 @@
 }
 
 @font-face {
-    font-family: 'Noto Sans KR';
-    font-style: bold;
+    font-family: 'Noto Sans Korean';
+    font-style: normal;
     font-weight: 700;
     src: local('Noto Sans Bold'), local('NotoSans-Bold'),
     url(http://theeluwin.github.io/NotoSansKR-Hestia/fonts/eot/NotoSansKR-Bold-Hestia.eot),
@@ -65,8 +65,8 @@
 }
 
 @font-face {
-    font-family: 'Noto Sans KR';
-    font-style: bolder;
+    font-family: 'Noto Sans Korean';
+    font-style: normal;
     font-weight: 900;
     src: local('Noto Sans Black'), local('NotoSans-Black'),
     url(http://theeluwin.github.io/NotoSansKR-Hestia/fonts/eot/NotoSansKR-Black-Hestia.eot),
