@@ -23,6 +23,9 @@
   </head>
   <body>
     <section class="page-header">
+	    <div style="margin: -25px auto 0 auto; text-align: center;">
+	    <img alt="hestia" src="hestia.png" style="position: relative; width: 511px; height: 25px; top: 60px;" />
+	    </div>
       <h1 class="project-name">NotoSansKR-Hestia</h1>
       <h2 class="project-tagline">노토 산스 한글은 우리를 발할라로 데려가 주실 겁니다.</h2>
       <a href="https://github.com/theeluwin/NotoSansKR-Hestia" class="btn">View on GitHub</a>
@@ -52,7 +55,12 @@
 <p>AWS S3를 CDN 삼아서 서빙하고 있습니다. 간단하게 한줄만 쓰면 바로 사용 가능!</p>
 
 <pre><code>&lt;link href='http://notosanskr-hestia.s3-website-ap-northeast-1.amazonaws.com/stylesheets/NotoSansKR-Hestia.css' rel='stylesheet' type='text/css'&gt;</code></pre>
-<pre><code>font-family: 'Noto Sans Korean', sans-serif;</code></pre>
+<p>혹은</p>
+<pre><code>@import url(http://notosanskr-hestia.s3-website-ap-northeast-1.amazonaws.com/stylesheets/NotoSansKR-Hestia.css);</code></pre>
+<p>후</p>
+<pre><code>.noto {
+    font-family: 'Noto Sans Korean', sans-serif;
+}</code></pre>
 
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/theeluwin/NotoSansKR-Hestia">NotoSansKR-Hestia</a> is maintained by <a href="https://github.com/theeluwin">theeluwin</a>.</span>
