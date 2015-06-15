@@ -12,6 +12,6 @@ html에서
 	
 css에서
 
-	font-family: 'Noto Sans KR', sans-serif;
+	font-family: 'Noto Sans Korean', sans-serif;
 	
 [1]: http://theeluwin.github.io/NotoSansKR-Hestia
