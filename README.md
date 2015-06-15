@@ -16,7 +16,9 @@ HTML에서
 CSS에서
 
 ```css
-font-family: 'Noto Sans Korean', sans-serif;
+.noto {
+    font-family: 'Noto Sans Korean', sans-serif;
+}
 ```
 
 혹은
