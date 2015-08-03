@@ -52,11 +52,12 @@
 <h3>
 <a id="how-noto" class="anchor" href="#how-noto" aria-hidden="true"><span class="octicon octicon-link"></span></a>사용법</h3>
 
-<p>AWS S3를 CDN 삼아서 서빙하고 있습니다. 간단하게 한줄만 쓰면 바로 사용 가능!</p>
+<p style="text-decoration: line-through;">AWS S3를 CDN 삼아서 서빙하고 있습니다. 간단하게 한줄만 쓰면 바로 사용 가능!</p>
+<p>AWS S3를 개인 계정으로 사용하고 있었으나 비용 감당이 안되기 시작하여 <a href="https://rawgit.com/" target="new">rawgit</a>으로 서빙하게 되었습니다. 안정성이 보장된 CDN이 아니므로, 자체적으로 서빙하시는걸 권장해 드립니다.</p>
 
-<pre><code>&lt;link href='http://notosanskr-hestia.s3-website-ap-northeast-1.amazonaws.com/stylesheets/NotoSansKR-Hestia.css' rel='stylesheet' type='text/css'&gt;</code></pre>
+<pre><code>&lt;link href='https://cdn.rawgit.com/theeluwin/NotoSansKR-Hestia/master/stylesheets/NotoSansKR-Hestia.css' rel='stylesheet' type='text/css'&gt;</code></pre>
 <p>혹은</p>
-<pre><code>@import url(http://notosanskr-hestia.s3-website-ap-northeast-1.amazonaws.com/stylesheets/NotoSansKR-Hestia.css);</code></pre>
+<pre><code>@import url(https://cdn.rawgit.com/theeluwin/NotoSansKR-Hestia/master/stylesheets/NotoSansKR-Hestia.css);</code></pre>
 <p>후</p>
 <pre><code>.noto {
     font-family: 'Noto Sans Korean', sans-serif;
