@@ -1,11 +1,10 @@
 # NotoSansKR-Hestia
-----------
 
-##### 노토 산스 쓰고 발할라로 갑시다
+경량화된 노토 산스 한글 폰트.
 
-[GitHub Pages][1]를 참고해주세요.
+자세한 내용은 [여기](http://theeluwin.github.io/NotoSansKR-Hestia)서 확인해주세요.
 
-##### 사용법
+## 사용법
 
 HTML에서
 
@@ -23,8 +22,6 @@ HTML에서
 
 ```css
 .noto {
-    font-family: 'Noto Sans Korean', sans-serif;
+  font-family: 'Noto Sans Korean', sans-serif;
 }
 ```
-
-[1]: http://theeluwin.github.io/NotoSansKR-Hestia
